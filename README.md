@@ -1,1 +1,3 @@
 # goQuestions
+
+docker-compose up
